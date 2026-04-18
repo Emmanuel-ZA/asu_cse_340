@@ -1,0 +1,6 @@
+BasedOnStyle: LLVM
+BreakBeforeBraces: Stroustrup
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 120
